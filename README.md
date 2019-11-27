@@ -15,7 +15,7 @@ Commencer par forker ce projet sur votre compte github puis le cloner en local, 
  
 Le projet va créer une base de données et les tables. Vous n'avez pas besoin de créer de vraie inter-connexion LTI.
 Dans le repertoire 'LTI' se troupe un dump de données.
-Dans le repertoire 'mongoexport', se trouve les même données exportées avec la commande mongoexport.
+Dans le repertoire 'mongoexport', se trouve les mêmes données exportées avec la commande mongoexport.
 
 Le but est de créer un projet capable d'administrer ces tables:
   - idtokens => visualisation des utilisateurs connectés (durée de vie du token une journée) par platforme, un lien vers le contexttoken
