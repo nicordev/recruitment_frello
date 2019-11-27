@@ -32,7 +32,7 @@ Pour les curieux:
   - https://github.com/Cvmcosta/ltijsPour générer une fausse connexion au service:
 
 Si vous trouvez des bugs ou des difficultés ouvrez une issue github ;).
-Lorsque vous êtes satisfait de votre code envoyez-moi l'url de votre github @ j.e.a.n-sebastien@frello.fr.
+Lorsque vous êtes satisfait de votre code envoyez-moi l'url de votre github @ jean-sebastien@frello.fr.
 Les critères de notation sont:
   - La clarté du code (si le code est suffisamment clair pas besoin de le commenter)
   - La documentation (readme à la racine)
