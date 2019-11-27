@@ -14,7 +14,7 @@ Commencer par forker ce projet sur votre compte github puis le cloner en local, 
   - Lancer le projet node index.js
  
 Le projet va créer une base de données et les tables. Vous n'avez pas besoin de créer de vraie inter-connexion LTI.
-Dans le repertoire 'LTI' se troupe un dump de données.
+Dans le repertoire 'LTI' se trouve un dump de données.
 Dans le repertoire 'mongoexport', se trouve les mêmes données exportées avec la commande mongoexport.
 
 Le but est de créer un projet capable d'administrer ces tables:
