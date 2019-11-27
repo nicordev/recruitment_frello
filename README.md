@@ -26,7 +26,7 @@ Maintenant à vous de coder et d'organiser le project comme vous le souhaitez !!
 # Montrer votre maitrise des design patterns
 A l'aide du "Factory method pattern" générer des données pour remplir la base au démarrage de l'application
 
-#autres infos
+# autres infos
 
 Pour les curieux:
   - https://github.com/Cvmcosta/ltijsPour générer une fausse connexion au service:
