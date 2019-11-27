@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"lti.platforms"}],"uuid":"cf9471f624dd42758a55b2aff6dcb91e"}
