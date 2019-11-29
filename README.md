@@ -4,7 +4,7 @@
 Technologies au choix parmi les suivantes:
   - au niveau serveur: symphony ou NodeJS
   - au niveau front: twig ou react.js
-  - au niveau bdd: mongdb
+  - au niveau bdd: mongodb
 
 Commencer par forker ce projet sur votre compte github puis le cloner en local, ensuite:
   - Installer mongodb
@@ -23,7 +23,7 @@ Le but est de créer un projet capable d'administrer ces tables:
   - idtokens => visualisation des utilisateurs connectés (durée de vie du token une journée) par platforme, un lien vers le contexttoken
   - platforms => ajouter, modifier, supprimer une platform, un lien vers les utilisateurs connectés (donc vers un tableau d'idtokens)
 
-Maintenant à vous de coder et d'organiser le project comme vous le souhaitez !!!
+Maintenant à vous de coder et d'organiser le projet comme vous le souhaitez !!!
 
 # Montrer votre maitrise des design patterns
 A l'aide du "Factory method pattern" générer des données pour remplir la base au démarrage de l'application
@@ -31,7 +31,7 @@ A l'aide du "Factory method pattern" générer des données pour remplir la base
 # autres infos
 
 Pour les curieux:
-  - https://github.com/Cvmcosta/ltijsPour générer une fausse connexion au service:
+  - https://github.com/Cvmcosta/ltijs Pour générer une fausse connexion au service:
 
 Si vous trouvez des bugs ou des difficultés ouvrez une issue github ;).
 
